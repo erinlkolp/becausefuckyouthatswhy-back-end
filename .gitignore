@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+.venv
+deploy_cmd.txt
+terraform.tfstate*
